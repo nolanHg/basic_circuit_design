@@ -1,4 +1,15 @@
-%% Lab 2 Post-lab
+%**********************************************************
+%            						  *
+% Title: ECE214_2019_Lab2_post.m 			  *
+% 							  *	
+% Author: nolanHg					  *
+%						  	  *
+% Purpose: Compares the simulated voltage across a 1.5 nF *
+%	   capacitor to the measured voltage.		  *
+%							  *
+% Date: 03/13/2019					  *
+%							  *
+%**********************************************************
 
 %------------------------------------------------------
 % Frequencies at which capacitor voltages were measured 
