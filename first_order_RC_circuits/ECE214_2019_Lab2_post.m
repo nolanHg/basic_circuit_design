@@ -4,8 +4,10 @@
 % 							   **	
 % Author: nolanHg					   **
 %						  	   **
-% Purpose: Compares the simulated voltage across a 1.5 nF  **
-%	   capacitor to the measured voltage.		   **
+% Purpose: Compares the simulated voltage and 		   **
+%	   phase shift across a 1.5 nF                     **
+%	   capacitor to the measured voltage and           **
+%	   phase shift across a 1.5 nF capacitor.	   **
 %							   **
 % Date: 03/13/2019					   **
 %							   **
