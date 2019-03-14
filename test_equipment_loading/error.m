@@ -1,3 +1,17 @@
+%**********************************************************************
+%                                                                    **
+% Title: error.m                                                     **
+%                                                                    **
+% Author: nolanHg                                                    **
+%                                                                    **
+% Purpose: Calculates the errror between the gain of an              **
+%          ideal voltage divider circuit, and a measured             **
+%          voltage divder circuit                                    **
+%                                                                    **
+% Date: 03/14/2019                                                   **
+%                                                                    **
+%**********************************************************************
+
 calc = [143.7e-3 495.8e-3 319.7e-3];
 meas = [150e-3 500e-3 325e-3];
 res_sizes = [10 10e3 10e6];
